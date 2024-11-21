@@ -1,0 +1,30 @@
+# Optimizing Website Performance with Social Media Embeds  
+
+## Overview  
+[https://tasbihdigital.net/](https://tasbihdigital.net/) is a website that integrates embedded social media content, including X (formerly Twitter) feeds and share buttons. While the integration functions well on most browsers, we’ve observed slower performance on Firefox, particularly on Windows systems.  
+
+This repository is dedicated to exploring optimization techniques and solutions to improve the performance of embedded social media content, ensuring a smooth user experience across all browsers.  
+
+## Objective  
+The goal is to:  
+1. Identify performance bottlenecks caused by embedded scripts (e.g., X embeds).  
+2. Optimize page loading times, focusing on Firefox and Windows environments.  
+3. Share best practices and solutions with the developer community.  
+
+## Challenges  
+- Slower page load times on Firefox compared to other browsers.  
+- Performance issues with pages containing embedded X content.  
+- Potential OS-level or browser-specific factors impacting performance.  
+
+## Contributions  
+We welcome:  
+- Insights into similar issues and how you’ve resolved them.  
+- Open-source tools or libraries that aid in debugging or optimization.  
+- Suggestions for improving website performance for Firefox users.  
+
+Feel free to fork this repository, create a branch, and submit a pull request with your contributions.  
+
+## How to Get Involved  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/website-performance-optimization.git  
